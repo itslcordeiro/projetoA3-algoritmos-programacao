@@ -4,10 +4,10 @@ Sistema desenvolvido em Java para gerenciamento de um mini mercado utilizando te
 
 # 👨‍💻 Participantes
 
-- Antonio Augusto
-- Gustavo Brunholi
-- Gustavo Batista
-- Leonardo Cordeiro
+- [Antonio Augusto](https://github.com/auguxtodev) - 8261103548
+- [Gustavo Brunholi](https://github.com/gubrunholi) - 826189478
+- Gustavo Batista - 8261100192
+- [Leonardo Cordeiro](https://github.com/itslcordeiro) - 8261113737
 
 ## 📚 Funcionalidades
 
