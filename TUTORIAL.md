@@ -165,4 +165,4 @@ clientes.csv
 
 # 🔙 Voltar para o README Principal
 
-➡️ [README.md](./README.md)
+➡️ [README.md](https://github.com/itslcordeiro/projetoA3-algoritmos-programacao)
